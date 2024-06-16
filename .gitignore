@@ -16,12 +16,12 @@ npm-debug.log
 **/.mypy_cache/**
 !yarn.lock
 coverage/
+logs/
 cucumber-report.json
 **/.vscode-test/**
 **/.vscode test/**
 **/.vscode-smoke/**
 **/.venv*/
-.artifacts
 port.txt
 precommit.hook
 python_files/lib/**
