@@ -1,4 +1,4 @@
-FROM python-3.11-slim-bullseye
+FROM debian:11
 WORKDIR /app
 COPY . /app
 
